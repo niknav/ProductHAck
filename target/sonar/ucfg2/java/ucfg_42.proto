@@ -1,0 +1,32 @@
+
+acom.management.ProductMS.ProductApplication#apiDetails()Lspringfox/documentation/service/ApiInfo;_
+UD:/hackfinal/ProductMS/src/main/java/com/management/ProductMS/ProductApplication.java   ("1*­	
+1_
+UD:/hackfinal/ProductMS/src/main/java/com/management/ProductMS/ProductApplication.java" "(¼¹
+_
+UD:/hackfinal/ProductMS/src/main/java/com/management/ProductMS/ProductApplication.java! !(%-
+%0'springfox.documentation.service.ApiInfo"'springfox.documentation.service.ApiInfo›
+˜
+_
+UD:/hackfinal/ProductMS/src/main/java/com/management/ProductMS/ProductApplication.java! ((B
+%1"¯springfox.documentation.service.ApiInfo#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V*/
+-
+%0'springfox.documentation.service.ApiInfo*
+Product API*;9
+7This API will provide information about Product details*	
+1.0.0*
+Free to use*
+prod@org.com*
+API license: Apache 2.0*31
+/http://www.apache.org/licenses/LICENSE-2.0.htmlÏ
+Ì
+_
+UD:/hackfinal/ProductMS/src/main/java/com/management/ProductMS/ProductApplication.java! ((C2
+apiInfo'springfox.documentation.service.ApiInfo"__id*/
+-
+%0'springfox.documentation.service.ApiInfo"—
+_
+UD:/hackfinal/ProductMS/src/main/java/com/management/ProductMS/ProductApplication.java* *(4
+2
+apiInfo'springfox.documentation.service.ApiInfoB/-
++com.management.ProductMS.ProductApplication

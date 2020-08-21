@@ -1,0 +1,16 @@
+
+Dcom.management.ProductMS.entity.Product#getImage()Ljava/lang/String;[
+QD:/hackfinal/ProductMS/src/main/java/com/management/ProductMS/entity/Product.java8 8("1*’
+1[
+QD:/hackfinal/ProductMS/src/main/java/com/management/ProductMS/entity/Product.java9	 9(¶
+³
+[
+QD:/hackfinal/ProductMS/src/main/java/com/management/ProductMS/entity/Product.java9	 9(
+%0java.lang.String"__id*6*4)
+'com.management.ProductMS.entity.Product"
+image"w
+[
+QD:/hackfinal/ProductMS/src/main/java/com/management/ProductMS/entity/Product.java9 9(
+
+%0java.lang.StringB+)
+'com.management.ProductMS.entity.Product
